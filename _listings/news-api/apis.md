@@ -19,7 +19,7 @@ apis:
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
-  humanURL: ""
+  humanURL: https://newsapi.org
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/news-api/news-api-everything-stream-async.md
@@ -32,7 +32,7 @@ apis:
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
-  humanURL: ""
+  humanURL: https://newsapi.org
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/news-api/news-api-sources-stream-async.md
@@ -45,7 +45,7 @@ apis:
   description: Get live article metadata from a range of sources including BBC News,
     TechCrunch, Huffington Post and more with our free News API
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26590-newsapi-org.jpg
-  humanURL: ""
+  humanURL: https://newsapi.org
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/news-api/news-api-top-headlines-stream-async.md
