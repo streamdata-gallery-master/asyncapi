@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Stripe Get Payments (stream)
+x-collection-name: Stripe
 info:
   title: Stripe
   version: 1.2.0
