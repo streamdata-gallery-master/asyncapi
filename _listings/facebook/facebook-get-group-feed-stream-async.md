@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Facebook Get Group Feed (stream)
+x-collection-name: Facebook
 info:
   title: Facebook
   version: 1.2.0
