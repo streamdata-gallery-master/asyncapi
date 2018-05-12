@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: IEX Book (stream)
+x-collection-name: IEX
 info:
   title: IEX Trading API
   version: 1.2.0
