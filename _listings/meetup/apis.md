@@ -23,7 +23,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-activityfeed-stream-async.md
@@ -38,7 +38,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-categories-stream-async.md
@@ -53,7 +53,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-cities-stream-async.md
@@ -68,7 +68,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-comments-stream-async.md
@@ -83,7 +83,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-comments-v2-stream-async.md
@@ -98,7 +98,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-concierge-stream-async.md
@@ -113,7 +113,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-events-stream-async.md
@@ -128,7 +128,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-events-stream-async.md
@@ -143,7 +143,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-groups-stream-async.md
@@ -158,7 +158,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-locations-stream-async.md
@@ -173,7 +173,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-topics-stream-async.md
@@ -188,7 +188,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-upcoming-events-stream-async.md
@@ -203,7 +203,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-find-venues-stream-async.md
@@ -218,7 +218,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-members-stream-async.md
@@ -233,7 +233,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-notifications-stream-async.md
@@ -248,7 +248,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-openevents-stream-async.md
@@ -263,7 +263,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-openvenues-stream-async.md
@@ -278,7 +278,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-photos-stream-async.md
@@ -293,7 +293,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-rsvps-v2-stream-async.md
@@ -308,7 +308,7 @@ apis:
   description: Meetup is an online social networking portal that facilitates offline
     group meetings in various localities around the world
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
+  humanURL: http://www.meetup.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/meetup/meetup-venues-stream-async.md
