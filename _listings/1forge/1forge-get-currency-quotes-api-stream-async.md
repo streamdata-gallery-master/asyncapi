@@ -1,5 +1,5 @@
 ---
-version: ""
+version: 1.2.0
 x-collection-name: 1Forge
 info:
   title: 1Forge Get Currency Quotes API (stream)
@@ -19,6 +19,5 @@ stream:
     type: chunked
     delimiter: \r\n
   read:
-  - $ref: '#/components/messages/?????'
   - $ref: '#/components/messages/quotes'
 ---
