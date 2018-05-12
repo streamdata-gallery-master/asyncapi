@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Spotify
 info:
   title: Spotify
   version: 1.2.0
