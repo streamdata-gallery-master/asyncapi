@@ -18,7 +18,7 @@ apis:
   description: Gitter is a chat and networking platform that helps to manage, grow
     and connect communities through messaging, content and discovery
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gitter-logo.png
-  humanURL: ""
+  humanURL: http://gitter.im
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/gitter/gitter-streaming-api-async.md
