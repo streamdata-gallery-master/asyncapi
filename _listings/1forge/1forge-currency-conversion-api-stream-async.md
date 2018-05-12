@@ -1,8 +1,8 @@
 ---
-version: 1.2.0
+version: ""
 x-collection-name: 1Forge
 info:
-  title: 1Forge
+  title: 1Forge Currency Conversion API (stream)
   version: 1.2.0
 servers:
 - url: forex.1forge.com/convert
