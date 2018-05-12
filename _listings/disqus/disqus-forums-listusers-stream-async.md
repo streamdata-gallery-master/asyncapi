@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Disqus
+x-collection-name: Disqus Forums ListUsers (stream)
 info:
   title: Disqus
   version: 1.2.0
