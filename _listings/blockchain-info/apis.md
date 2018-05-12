@@ -23,7 +23,7 @@ apis:
     software has powered over 100M transactions and empowered users in 130 countries
     across the globe to transact quickly and without costly intermediaries
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
-  humanURL: ""
+  humanURL: https://blockchain.info
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/blockchain-info/blockchain-info-blocks-by-pool-stream-async.md
@@ -38,7 +38,7 @@ apis:
     software has powered over 100M transactions and empowered users in 130 countries
     across the globe to transact quickly and without costly intermediaries
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
-  humanURL: ""
+  humanURL: https://blockchain.info
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/blockchain-info/blockchain-info-latest-block-stream-async.md
@@ -53,7 +53,7 @@ apis:
     software has powered over 100M transactions and empowered users in 130 countries
     across the globe to transact quickly and without costly intermediaries
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
-  humanURL: ""
+  humanURL: https://blockchain.info
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/blockchain-info/blockchain-info-raw-address-stream-async.md
@@ -68,7 +68,7 @@ apis:
     software has powered over 100M transactions and empowered users in 130 countries
     across the globe to transact quickly and without costly intermediaries
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28138-blockchain-info.jpg
-  humanURL: ""
+  humanURL: https://blockchain.info
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/blockchain-info/blockchain-info-stats-stream-async.md
