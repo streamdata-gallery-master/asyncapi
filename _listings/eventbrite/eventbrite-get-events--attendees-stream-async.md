@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Eventbrite
+x-collection-name: Eventbrite Get Events  Attendees (stream)
 info:
   title: Eventbrite
   version: 1.2.0
