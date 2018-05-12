@@ -33,6 +33,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge API Usage Quota API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -47,6 +48,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge API Usage Quota API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -61,6 +63,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge Currency Conversion API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -75,6 +78,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge Financial Market Status API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -89,6 +93,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge Get Currency Quotes API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -103,6 +108,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 - name: 1Forge Get Currency Symbols API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -117,6 +123,7 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+  properties: ~
 x-common:
 - type: x-code
   url: https://1forge.com/forex-data-api/libraries
