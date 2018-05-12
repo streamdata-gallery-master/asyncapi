@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Twitter
 info:
   title: Twitter
   version: 1.2.0
