@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Stack Exchange Get Questions (stream)
+x-collection-name: Stack Exchange
 info:
   title: Stack Exchange
   version: 1.2.0
