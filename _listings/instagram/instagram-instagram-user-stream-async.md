@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Instagram
+x-collection-name: Instagram Instagram User (stream)
 info:
   title: Instagram
   version: 1.2.0
