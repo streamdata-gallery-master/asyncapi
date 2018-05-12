@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Intrinio
 info:
   title: Intrinio API
   version: 1.2.0
