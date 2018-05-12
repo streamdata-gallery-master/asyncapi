@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Meetup
+x-collection-name: Meetup Comments v2 (stream)
 info:
   title: Meetup
   version: 1.2.0
