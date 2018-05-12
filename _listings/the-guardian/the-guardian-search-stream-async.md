@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: The Guardian
+x-collection-name: The Guardian Search (stream)
 info:
   title: The Guardian
   version: 1.2.0
