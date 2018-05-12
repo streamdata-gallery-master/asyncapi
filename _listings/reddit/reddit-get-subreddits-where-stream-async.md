@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Reddit Get Subreddits Where (stream)
+x-collection-name: Reddit
 info:
   title: Reddit
   version: 1.2.0
