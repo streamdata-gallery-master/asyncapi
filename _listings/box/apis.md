@@ -28,7 +28,7 @@ apis:
 - name: Box Create Task (stream)
   description: Box Inc
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
-  humanURL: ""
+  humanURL: http://box.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/box/box-create-task-stream-async.md
@@ -47,7 +47,7 @@ apis:
 - name: Box Get File's Collaborations (stream)
   description: Box Inc
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
-  humanURL: ""
+  humanURL: http://box.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/box/box-get-files-collaborations-stream-async.md
@@ -66,7 +66,7 @@ apis:
 - name: Box Pending Collaborations (stream)
   description: Box Inc
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
-  humanURL: ""
+  humanURL: http://box.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/box/box-pending-collaborations-stream-async.md
@@ -85,7 +85,7 @@ apis:
 - name: Box User Events, Enterprise Events (stream)
   description: Box Inc
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/box1200x630.jpg
-  humanURL: ""
+  humanURL: http://box.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/box/box-user-events-enterprise-events-stream-async.md
