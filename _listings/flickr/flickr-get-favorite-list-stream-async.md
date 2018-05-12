@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Flickr
 info:
   title: Flickr
   version: 1.2.0
