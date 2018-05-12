@@ -27,7 +27,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-best-stream-async.md
@@ -45,7 +45,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-new-subreddits-stream-async.md
@@ -63,7 +63,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-search-reddit-names-stream-async.md
@@ -81,7 +81,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-subreddit-hot-stream-async.md
@@ -99,7 +99,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-subreddit-new-stream-async.md
@@ -117,7 +117,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-subreddit-rising-stream-async.md
@@ -135,7 +135,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-subreddits-search-stream-async.md
@@ -153,7 +153,7 @@ apis:
     networking service and news website where registered community members can submit
     content, such as text posts or direct links
   image: http://www.redditstatic.com/about/assets/reddit-logo.png
-  humanURL: ""
+  humanURL: http://www.reddit.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/reddit/reddit-get-subreddits-where-stream-async.md
