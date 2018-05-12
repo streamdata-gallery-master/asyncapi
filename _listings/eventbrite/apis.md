@@ -31,7 +31,7 @@ apis:
 - name: Eventbrite Get Categories (stream)
   description: Eventbrite believes that anyone can be an event organizer
   image: https://avatars2.githubusercontent.com/u/369874?v=4
-  humanURL: ""
+  humanURL: http://developer.eventbrite.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/eventbrite/eventbrite-get-categories-stream-async.md
@@ -49,7 +49,7 @@ apis:
 - name: Eventbrite Get Events  Attendees (stream)
   description: Eventbrite believes that anyone can be an event organizer
   image: https://avatars2.githubusercontent.com/u/369874?v=4
-  humanURL: ""
+  humanURL: http://developer.eventbrite.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/eventbrite/eventbrite-get-events--attendees-stream-async.md
@@ -67,7 +67,7 @@ apis:
 - name: Eventbrite Get Events Search (stream)
   description: Eventbrite believes that anyone can be an event organizer
   image: https://avatars2.githubusercontent.com/u/369874?v=4
-  humanURL: ""
+  humanURL: http://developer.eventbrite.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/eventbrite/eventbrite-get-events-search-stream-async.md
