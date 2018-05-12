@@ -30,7 +30,7 @@ apis:
     and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo
     in 2005
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg
-  humanURL: ""
+  humanURL: http://www.flickr.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/flickr/flickr-get-favorite-list-stream-async.md
