@@ -25,8 +25,8 @@
                  {% assign api_json_kin_rank = entry.x-kinRank %}
                  {% assign api_json_alexa_rank = entry.x-alexaRank %}
 
-
-                 {% for property in entry.properties %}
+                 <p>properties:</p>
+                 {% for property in api.properties %}
                     {{ property.type }} == {{ property.url }}<br />
                  {% endfor %}
 
