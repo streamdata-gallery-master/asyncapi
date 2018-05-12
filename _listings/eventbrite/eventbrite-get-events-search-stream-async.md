@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Eventbrite Get Events Search (stream)
+x-collection-name: Eventbrite
 info:
   title: Eventbrite
   version: 1.2.0
