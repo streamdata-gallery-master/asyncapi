@@ -27,7 +27,7 @@ apis:
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
   image: https://avatars1.githubusercontent.com/u/50278?v=4
-  humanURL: ""
+  humanURL: https://twitter.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twitter/twitter-list-statuses-stream-async.md
@@ -47,7 +47,7 @@ apis:
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
   image: https://avatars1.githubusercontent.com/u/50278?v=4
-  humanURL: ""
+  humanURL: https://twitter.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twitter/twitter-search-tweets-stream-async.md
@@ -67,7 +67,7 @@ apis:
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
   image: https://avatars1.githubusercontent.com/u/50278?v=4
-  humanURL: ""
+  humanURL: https://twitter.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twitter/twitter-show-available-trends-stream-async.md
@@ -87,7 +87,7 @@ apis:
   description: Twitter is a global real-time communications platform with 400 million
     monthly visitors to twitter
   image: https://avatars1.githubusercontent.com/u/50278?v=4
-  humanURL: ""
+  humanURL: https://twitter.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twitter/twitter-show-timelines-status-stream-async.md
