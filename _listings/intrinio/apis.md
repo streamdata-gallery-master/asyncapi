@@ -25,7 +25,7 @@ apis:
   description: Market for financial data APIs and analytics applications built with
     those data feeds
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
-  humanURL: ""
+  humanURL: https://intrinio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/intrinio/intrinio-press-releases-stream-async.md
@@ -44,7 +44,7 @@ apis:
   description: Market for financial data APIs and analytics applications built with
     those data feeds
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IntrinioLogo-Green-optimized.png
-  humanURL: ""
+  humanURL: https://intrinio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/intrinio/intrinio-securities-stream-async.md
