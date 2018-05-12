@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Gmail
+x-collection-name: Gmail Get Message (stream)
 info:
   title: Gmail
   version: 1.2.0
