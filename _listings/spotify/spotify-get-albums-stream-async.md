@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Spotify
+x-collection-name: Spotify Get Albums (stream)
 info:
   title: Spotify
   version: 1.2.0

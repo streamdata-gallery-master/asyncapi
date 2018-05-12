@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Stack Exchange
+x-collection-name: Stack Exchange Get Badges (stream)
 info:
   title: Stack Exchange
   version: 1.2.0
