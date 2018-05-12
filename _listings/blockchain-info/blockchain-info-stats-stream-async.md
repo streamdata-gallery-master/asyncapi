@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Blockchain Info
+x-collection-name: Blockchain Info Stats (stream)
 info:
   title: Blockchain Info
   version: 1.2.0
