@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Facebook
+x-collection-name: Facebook Get Live Veo (stream)
 info:
   title: Facebook
   version: 1.2.0
