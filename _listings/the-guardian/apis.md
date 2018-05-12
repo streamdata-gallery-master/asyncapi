@@ -25,7 +25,7 @@ apis:
     into a national paper associated with a complex organisational structure and an
     international multimedia and web presence
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
-  humanURL: ""
+  humanURL: http://www.guardian.co.uk/open-platform
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/the-guardian/the-guardian-search-stream-async.md
