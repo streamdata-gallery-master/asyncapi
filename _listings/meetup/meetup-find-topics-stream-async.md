@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Meetup Find Topics (stream)
+x-collection-name: Meetup
 info:
   title: Meetup
   version: 1.2.0
