@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Pinboard
+x-collection-name: Pinboard Get All Posts (stream)
 info:
   title: Pinboard
   version: 1.2.0
