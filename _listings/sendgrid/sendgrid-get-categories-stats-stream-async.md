@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: SendGrid Get Categories Stats (stream)
+x-collection-name: SendGrid
 info:
   title: SendGrid
   version: 1.2.0
