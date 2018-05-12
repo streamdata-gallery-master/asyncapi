@@ -4,3 +4,16 @@
 {% assign api_json_url = apis_json.url %}
 {% assign api_json_kin_rank = apis_json.x-kinRank %}
 {% assign api_json_alexa_rank = apis_json.x-alexaRank %}
+
+{% assign api_json_asyncapi_url = "" %}
+
+{% for api in apis_json.apis %}
+   {% if api.name == page.x-collection-name %}
+     {% assign api_json_alexa_rank = entry.x-alexaRank %}
+     {% for property in api.properties %}
+        {% if property.type == 'x-asyncapi-spec' %}
+          {% assign api_json_asyncapi_url = property.url %}
+        {% endif %}
+     {% endfor %}
+   {% endif %}
+ {% endfor %}
