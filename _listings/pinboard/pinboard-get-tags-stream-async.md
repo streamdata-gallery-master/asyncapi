@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Pinboard Get Tags (stream)
+x-collection-name: Pinboard
 info:
   title: Pinboard
   version: 1.2.0
