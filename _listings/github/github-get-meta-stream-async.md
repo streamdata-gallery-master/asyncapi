@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: GitHub
+x-collection-name: GitHub Get Meta (stream)
 info:
   title: Github
   version: 1.2.0
