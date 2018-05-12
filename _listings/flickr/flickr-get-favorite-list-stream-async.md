@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Flickr
+x-collection-name: Flickr Get Favorite List (stream)
 info:
   title: Flickr
   version: 1.2.0
