@@ -22,7 +22,7 @@ apis:
 - name: Pinboard Get All Posts (stream)
   description: Pinboard
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: ""
+  humanURL: http://www.pinboard.in
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/pinboard/pinboard-get-all-posts-stream-async.md
@@ -36,7 +36,7 @@ apis:
 - name: Pinboard Get Popular Tags (stream)
   description: Pinboard
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: ""
+  humanURL: http://www.pinboard.in
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/pinboard/pinboard-get-popular-tags-stream-async.md
@@ -50,7 +50,7 @@ apis:
 - name: Pinboard Get Recent Posts (stream)
   description: Pinboard
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: ""
+  humanURL: http://www.pinboard.in
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/pinboard/pinboard-get-recent-posts-stream-async.md
@@ -64,7 +64,7 @@ apis:
 - name: Pinboard Get Tags (stream)
   description: Pinboard
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pinboard-icon.png
-  humanURL: ""
+  humanURL: http://www.pinboard.in
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/pinboard/pinboard-get-tags-stream-async.md
