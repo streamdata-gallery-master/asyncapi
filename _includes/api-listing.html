@@ -1,6 +1,6 @@
 <div class="taggedLinkCards__cards">
   {% for item in listing_object %}
-  
+
     {% if item.version %}
       {% if item.version == "1.2.0" %}
 
@@ -27,7 +27,7 @@
            {% endif %}
          {% endfor %}
 
-         {% assign api_path_slug = item.info.title | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase %}
+         {% assign api_path_slug = item.info.title | replace: ' ','-' | replace: '/','' | replace: '&','-' | replace: '=','-' | replace: '{','-' | replace: '}','-' | replace: '()','-' | replace: ')','-' | replace: '?','-' | replace: '_','-' | replace: '--','-' | downcase | append: '-async' %}
 
          <div class="taggedLinkCard taggedLinkCard--red" data-platform="html5">
             <div class="taggedLinkCard__container enterAnimation enterAnimation--active" data-enter-animation="">
