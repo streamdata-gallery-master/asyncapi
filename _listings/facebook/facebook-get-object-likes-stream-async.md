@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Facebook Get Object Likes (stream)
+x-collection-name: Facebook
 info:
   title: Facebook
   version: 1.2.0
