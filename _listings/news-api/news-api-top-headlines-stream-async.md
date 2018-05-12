@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: News API
 info:
   title: News API
   version: 1.2.0
