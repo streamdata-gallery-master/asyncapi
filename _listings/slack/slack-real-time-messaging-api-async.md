@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Slack
 info:
   title: Slack Real Time Messaging API
   version: 1.2.0
