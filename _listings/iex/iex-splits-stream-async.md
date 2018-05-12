@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: IEX
+x-collection-name: IEX Splits (stream)
 info:
   title: IEX Trading API
   version: 1.2.0
