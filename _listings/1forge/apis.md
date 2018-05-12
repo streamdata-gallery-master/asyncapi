@@ -87,6 +87,40 @@ apis:
   - Have API Key
   - Forex Quote
   - Currency
+- name: 1Forge Currency Conversion API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  properties:
+  - type: x-asyncapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-currency-conversion-api-stream-async.md
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Financial Market Status API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  properties:
+  - type: x-asyncapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-financial-market-status-api-stream-async.md
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
 - name: 1Forge Financial Market Status API (stream)
   description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
     API
@@ -113,6 +147,40 @@ apis:
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-quotes-api-stream-async.md
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Get Currency Quotes API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  properties:
+  - type: x-asyncapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-quotes-api-stream-async.md
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Get Currency Symbols API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  properties:
+  - type: x-asyncapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-symbols-api-stream-async.md
   tags:
   - Technology
   - SaaS
