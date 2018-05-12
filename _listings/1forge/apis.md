@@ -24,7 +24,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-async.md
@@ -41,7 +41,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-api-usage-quota-api-stream-async.md
@@ -58,7 +58,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-api-usage-quota-api-stream-async.md
@@ -75,7 +75,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-currency-conversion-api-stream-async.md
@@ -92,7 +92,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-currency-conversion-api-stream-async.md
@@ -109,7 +109,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-financial-market-status-api-stream-async.md
@@ -126,7 +126,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-financial-market-status-api-stream-async.md
@@ -143,7 +143,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-quotes-api-stream-async.md
@@ -160,7 +160,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-quotes-api-stream-async.md
@@ -177,7 +177,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-symbols-api-stream-async.md
@@ -194,7 +194,7 @@ apis:
     API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
     Shot 2018-01-22 at 4.54.47 PM.png
-  humanURL: ""
+  humanURL: https://1forge.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/1forge-get-currency-symbols-api-stream-async.md
