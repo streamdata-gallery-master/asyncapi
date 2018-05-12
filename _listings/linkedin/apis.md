@@ -28,7 +28,7 @@ apis:
     the world, LinkedIn is a fast-growing professional networking site that allows
     members to create business contacts, search for jobs, and find potential clients
   image: https://avatars.githubusercontent.com/u/357098?v=3
-  humanURL: ""
+  humanURL: http://linkedin.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/linkedin/linkedin-get-companies-stream-async.md
@@ -47,7 +47,7 @@ apis:
     the world, LinkedIn is a fast-growing professional networking site that allows
     members to create business contacts, search for jobs, and find potential clients
   image: https://avatars.githubusercontent.com/u/357098?v=3
-  humanURL: ""
+  humanURL: http://linkedin.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/linkedin/linkedin-get-companies-updates-stream-async.md
@@ -66,7 +66,7 @@ apis:
     the world, LinkedIn is a fast-growing professional networking site that allows
     members to create business contacts, search for jobs, and find potential clients
   image: https://avatars.githubusercontent.com/u/357098?v=3
-  humanURL: ""
+  humanURL: http://linkedin.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/linkedin/linkedin-get-people-stream-async.md
