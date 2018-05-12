@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Box
 info:
   title: Box
   version: 1.2.0
