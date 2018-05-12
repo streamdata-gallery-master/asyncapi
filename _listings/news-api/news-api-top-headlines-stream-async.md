@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: News API
+x-collection-name: News API Top Headlines (stream)
 info:
   title: News API
   version: 1.2.0
