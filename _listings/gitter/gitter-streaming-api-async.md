@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Gitter Streaming API
+x-collection-name: Gitter
 info:
   title: Gitter Streaming API
   version: 1.2.0
