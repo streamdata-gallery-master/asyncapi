@@ -10,8 +10,8 @@
 
 {% for api in apis_json.apis %}
 
-   HERE1: {{ api.name }} == {{ page.x-collection-name }}<br />
-   {% if api.name == page.x-collection-name %}
+   HERE1: {{ apis_json.name }} == {{ page.x-collection-name }}<br />
+   {% if apis_json.name == page.x-collection-name %}
 
     {% assign api_url = api.humanURL %}
 
