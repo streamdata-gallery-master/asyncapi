@@ -31,7 +31,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-answers-stream-async.md
@@ -52,7 +52,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-badges-stream-async.md
@@ -73,7 +73,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-comments-stream-async.md
@@ -94,7 +94,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-event-stream-async.md
@@ -115,7 +115,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-posts-stream-async.md
@@ -136,7 +136,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-questions-stream-async.md
@@ -157,7 +157,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-get-tags-stream-async.md
@@ -178,7 +178,7 @@ apis:
     topics in many different fields, each site covering a specific topic, where questions,
     answers, and users are subject to a reputation award process
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/253_logo.png
-  humanURL: ""
+  humanURL: https://stackexchange.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stack-exchange/stack-exchange-search-stream-async.md
