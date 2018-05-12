@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Stripe
+x-collection-name: Stripe Get Coupons (stream)
 info:
   title: Stripe
   version: 1.2.0
