@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: New York Times Article Search (stream)
+x-collection-name: New York Times
 info:
   title: New York Times
   version: 1.2.0
