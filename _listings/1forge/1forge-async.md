@@ -3,12 +3,9 @@ version: 1.2.0
 info:
   title: 1Forge
   version: 1.2.0
-  description: ~
 servers:
 - url: forex.1forge.com/quotes
   scheme: https
-  description: ~
-  schemeVersion: ""
   asyncapi_servers_variables:
     pairs:
       description: A currency pair
@@ -18,8 +15,6 @@ servers:
       description: The format to return.
 - url: forex.1forge.com/symbols
   scheme: https
-  description: ~
-  schemeVersion: ""
   asyncapi_servers_variables:
     api_key:
       description: The api key.
@@ -27,8 +22,6 @@ servers:
       description: The format to return.
 - url: forex.1forge.com/convert
   scheme: https
-  description: ~
-  schemeVersion: ""
   asyncapi_servers_variables:
     api_key:
       description: The api key.
@@ -42,8 +35,6 @@ servers:
       description: The format to return.
 - url: forex.1forge.com/market_status
   scheme: https
-  description: ~
-  schemeVersion: ""
   asyncapi_servers_variables:
     api_key:
       description: The api key.
@@ -51,8 +42,6 @@ servers:
       description: The format to return.
 - url: forex.1forge.com/quota
   scheme: https
-  description: ~
-  schemeVersion: ""
   asyncapi_servers_variables:
     api_key:
       description: The api key.
