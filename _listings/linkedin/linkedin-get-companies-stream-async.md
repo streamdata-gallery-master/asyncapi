@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: LinkedIn
+x-collection-name: LinkedIn Get Companies (stream)
 info:
   title: LinkedIn
   version: 1.2.0
