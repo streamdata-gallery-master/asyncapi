@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: GitHub Get Orgs Org Events (stream)
+x-collection-name: GitHub
 info:
   title: Github
   version: 1.2.0
