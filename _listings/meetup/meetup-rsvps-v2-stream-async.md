@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Meetup RSVPs v2 (stream)
+x-collection-name: Meetup
 info:
   title: Meetup
   version: 1.2.0
