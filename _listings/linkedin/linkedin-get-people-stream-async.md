@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: LinkedIn
 info:
   title: LinkedIn
   version: 1.2.0
