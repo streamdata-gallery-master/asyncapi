@@ -21,7 +21,7 @@ apis:
   description: The Gmail API is a RESTful API that can be used to access Gmail mailboxes
     and send mail
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png
-  humanURL: ""
+  humanURL: https://www.google.com/gmail/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/gmail/gmail-get-history-stream-async.md
@@ -35,7 +35,7 @@ apis:
   description: The Gmail API is a RESTful API that can be used to access Gmail mailboxes
     and send mail
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png
-  humanURL: ""
+  humanURL: https://www.google.com/gmail/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/gmail/gmail-get-message-stream-async.md
@@ -49,7 +49,7 @@ apis:
   description: The Gmail API is a RESTful API that can be used to access Gmail mailboxes
     and send mail
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png
-  humanURL: ""
+  humanURL: https://www.google.com/gmail/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/gmail/gmail-get-threads-stream-async.md
@@ -63,7 +63,7 @@ apis:
   description: The Gmail API is a RESTful API that can be used to access Gmail mailboxes
     and send mail
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png
-  humanURL: ""
+  humanURL: https://www.google.com/gmail/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/gmail/gmail-send-push-notification-stream-async.md
