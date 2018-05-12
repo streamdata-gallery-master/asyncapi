@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Intrinio
+x-collection-name: Intrinio Press Releases (stream)
 info:
   title: Intrinio API
   version: 1.2.0
