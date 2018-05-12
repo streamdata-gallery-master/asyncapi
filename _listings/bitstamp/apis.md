@@ -23,7 +23,7 @@ apis:
 - name: Bitstamp Websocket API
   description: Trade digital currencies at www
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1249-bitstamp.jpg
-  humanURL: ""
+  humanURL: https://www.bitstamp.net/api/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/bitstamp/bitstamp-websocket-api-async.md
@@ -38,7 +38,7 @@ apis:
 - name: Bitstamp Websocket API
   description: Trade digital currencies at www
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1249-bitstamp.jpg
-  humanURL: ""
+  humanURL: https://www.bitstamp.net/api/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/bitstamp/bitstamp-websocket-api-async.md
