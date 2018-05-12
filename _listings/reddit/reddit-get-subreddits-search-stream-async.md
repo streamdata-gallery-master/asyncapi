@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Reddit
+x-collection-name: Reddit Get Subreddits Search (stream)
 info:
   title: Reddit
   version: 1.2.0
