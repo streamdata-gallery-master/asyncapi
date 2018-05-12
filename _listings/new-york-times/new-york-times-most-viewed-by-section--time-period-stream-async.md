@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: New York Times Most Viewed by Section & Time Period (stream)
+x-collection-name: New York Times
 info:
   title: New York Times
   version: 1.2.0
