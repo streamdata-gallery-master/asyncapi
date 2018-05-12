@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Box
+x-collection-name: Box Get File's Collaborations (stream)
 info:
   title: Box
   version: 1.2.0
