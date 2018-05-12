@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Twitter
+x-collection-name: Twitter List Statuses (stream)
 info:
   title: Twitter
   version: 1.2.0
