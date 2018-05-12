@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Twilio
+x-collection-name: Twilio Get Conference Calls (stream)
 info:
   title: Twilio
   version: 1.2.0
