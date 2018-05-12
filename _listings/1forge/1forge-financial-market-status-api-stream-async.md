@@ -1,5 +1,5 @@
 ---
-version: 1.2.0
+version: ""
 x-collection-name: 1Forge
 info:
   title: 1Forge Financial Market Status API (stream)
@@ -17,5 +17,6 @@ stream:
     type: chunked
     delimiter: \r\n
   read:
+  - $ref: '#/components/messages/?????'
   - $ref: '#/components/messages/market_status'
 ---
