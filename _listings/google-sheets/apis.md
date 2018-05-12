@@ -25,7 +25,7 @@ apis:
   description: Google Sheets is an online spreadsheet app that lets users create and
     format spreadsheets and simultaneously work with other people
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-sheets-icon.png
-  humanURL: ""
+  humanURL: https://developers.google.com/sheets/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/google-sheets/google-sheets-get-spreadsheet-stream-async.md
