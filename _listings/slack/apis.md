@@ -34,7 +34,7 @@ apis:
   description: Slack is a team communication application providing services such as
     real-time messaging, archiving, and to search for modern teams
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/slack-logo.png
-  humanURL: ""
+  humanURL: https://slack.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/slack/slack-real-time-messaging-api-async.md
