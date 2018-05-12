@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: SendGrid
+x-collection-name: SendGrid Get Suppression Blocks (stream)
 info:
   title: SendGrid
   version: 1.2.0
