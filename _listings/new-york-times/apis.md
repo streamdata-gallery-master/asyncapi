@@ -18,7 +18,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-article-search-stream-async.md
@@ -29,7 +29,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-best-seller-list-stream-async.md
@@ -40,7 +40,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-most-emailed-by-section--time-period-stream-async.md
@@ -51,7 +51,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-most-shared-by-section--time-period-stream-async.md
@@ -62,7 +62,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-most-viewed-by-section--time-period-stream-async.md
@@ -73,7 +73,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-move-review-search-stream-async.md
@@ -84,7 +84,7 @@ apis:
   description: The New York Times (sometimes abbreviated as The NYT or The Times)
     is an American newspaper based in New York City with worldwide influence and readership
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/new-york-times-logo.jpg
-  humanURL: ""
+  humanURL: http://nytimes.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/new-york-times/new-york-times-top-stories-stream-async.md
