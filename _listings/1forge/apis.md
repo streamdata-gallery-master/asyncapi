@@ -18,7 +18,105 @@ created: "2018-05-12"
 modified: "2018-05-12"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/1forge/apis.yaml
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: 1Forge
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge API Usage Quota API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge API Usage Quota API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Currency Conversion API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Financial Market Status API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Get Currency Quotes API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
+- name: 1Forge Get Currency Symbols API (stream)
+  description: Exchange Rate API, Currency Conversion API and Realtime Forex Quote
+    API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2018-01-22 at 4.54.47 PM.png
+  humanURL: ""
+  tags:
+  - Technology
+  - SaaS
+  - REST
+  - Market Data
+  - Have API Key
+  - Forex Quote
+  - Currency
 x-common:
 - type: x-code
   url: https://1forge.com/forex-data-api/libraries
