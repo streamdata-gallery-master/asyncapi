@@ -35,7 +35,7 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: ""
+  humanURL: http://instagram.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/instagram/instagram-instagram-carousel-stream-async.md
@@ -59,7 +59,7 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: ""
+  humanURL: http://instagram.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/instagram/instagram-instagram-carousel-comments-stream-async.md
@@ -83,7 +83,7 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: ""
+  humanURL: http://instagram.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/instagram/instagram-instagram-media-comments-stream-async.md
@@ -107,7 +107,7 @@ apis:
     them on a variety of social networking platforms, such as Facebook, Twitter, Tumblr
     and Flickr
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/glyph-logo_May2016_200.png
-  humanURL: ""
+  humanURL: http://instagram.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/instagram/instagram-instagram-user-stream-async.md
