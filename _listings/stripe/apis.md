@@ -28,7 +28,7 @@ apis:
 - name: Stripe Get Balance (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-balance-stream-async.md
@@ -49,7 +49,7 @@ apis:
 - name: Stripe Get Charges (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-charges-stream-async.md
@@ -70,7 +70,7 @@ apis:
 - name: Stripe Get Coupons (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-coupons-stream-async.md
@@ -91,7 +91,7 @@ apis:
 - name: Stripe Get Customers (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-customers-stream-async.md
@@ -112,7 +112,7 @@ apis:
 - name: Stripe Get Disputes (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-disputes-stream-async.md
@@ -133,7 +133,7 @@ apis:
 - name: Stripe Get Events (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-events-stream-async.md
@@ -154,7 +154,7 @@ apis:
 - name: Stripe Get Invoices (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-invoices-stream-async.md
@@ -175,7 +175,7 @@ apis:
 - name: Stripe Get Orders (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-orders-stream-async.md
@@ -196,7 +196,7 @@ apis:
 - name: Stripe Get Payments (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-payments-stream-async.md
@@ -217,7 +217,7 @@ apis:
 - name: Stripe Get Payouts (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-payouts-stream-async.md
@@ -238,7 +238,7 @@ apis:
 - name: Stripe Get Recipients (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-recipients-stream-async.md
@@ -259,7 +259,7 @@ apis:
 - name: Stripe Get Refunds (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-refunds-stream-async.md
@@ -280,7 +280,7 @@ apis:
 - name: Stripe Get Subscriptions (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-subscriptions-stream-async.md
@@ -301,7 +301,7 @@ apis:
 - name: Stripe Get Transfers (stream)
   description: Stripe is a simple, developer-friendly way to accept payments online
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stripe-black.png
-  humanURL: ""
+  humanURL: https://stripe.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/stripe/stripe-get-transfers-stream-async.md
