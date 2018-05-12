@@ -26,7 +26,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-categories-list-stream-async.md
@@ -43,7 +43,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-categories-listposts-stream-async.md
@@ -60,7 +60,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-categories-listthreads-stream-async.md
@@ -77,7 +77,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-forums-interestingforums-stream-async.md
@@ -94,7 +94,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-forums-listfollowers-stream-async.md
@@ -111,7 +111,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-forums-listposts-stream-async.md
@@ -128,7 +128,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-forums-listthreads-stream-async.md
@@ -145,7 +145,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-forums-listusers-stream-async.md
@@ -162,7 +162,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-interesting-users-stream-async.md
@@ -179,7 +179,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-posts-list-stream-async.md
@@ -196,7 +196,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-posts-listpopular-stream-async.md
@@ -213,7 +213,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-threads-list-stream-async.md
@@ -230,7 +230,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-threads-listhot-stream-async.md
@@ -247,7 +247,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-threads-listpopular-stream-async.md
@@ -264,7 +264,7 @@ apis:
   description: Disqus (/d?-sk?s/) is an online discussion and commenting service for
     websites and online communities that uses a networked platform
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/disqus-logo-icon-750.jpg
-  humanURL: ""
+  humanURL: https://disqus.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/disqus/disqus-threads-listposts-stream-async.md
