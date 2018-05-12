@@ -30,7 +30,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-alerts-stream-async.md
@@ -52,7 +52,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-campaigns-stream-async.md
@@ -74,7 +74,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-categories-stats-stream-async.md
@@ -96,7 +96,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-devices-stats-stream-async.md
@@ -118,7 +118,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-geo-stats-stream-async.md
@@ -140,7 +140,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-mailbox-provers-stats-stream-async.md
@@ -162,7 +162,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-stats-stream-async.md
@@ -184,7 +184,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-suppression-blocks-stream-async.md
@@ -206,7 +206,7 @@ apis:
     metrics on outgoing email, and handles unsubscribe links, abiding by anti-spam
     regulations
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sendgrid-logo.png
-  humanURL: ""
+  humanURL: https://sendgrid.com/
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/sendgrid/sendgrid-get-suppression-bounces-stream-async.md
