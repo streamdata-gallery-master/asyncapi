@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Instagram Instagram Carousel (stream)
+x-collection-name: Instagram
 info:
   title: Instagram
   version: 1.2.0
