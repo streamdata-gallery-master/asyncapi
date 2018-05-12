@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: New York Times
+x-collection-name: New York Times Best Seller List (stream)
 info:
   title: New York Times
   version: 1.2.0
