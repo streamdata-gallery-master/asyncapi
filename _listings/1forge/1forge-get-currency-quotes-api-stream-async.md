@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: 1Forge
 info:
   title: 1Forge
   version: 1.2.0
