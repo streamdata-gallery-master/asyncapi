@@ -1,5 +1,6 @@
 ---
 version: 1.2.0
+x-collection-name: Google Sheets
 info:
   title: Google Sheets
   version: 1.2.0
