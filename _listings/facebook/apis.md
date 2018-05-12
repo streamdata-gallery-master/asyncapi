@@ -31,7 +31,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-album-photos-stream-async.md
@@ -53,7 +53,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-conversation-stream-async.md
@@ -75,7 +75,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-conversation-messages-stream-async.md
@@ -97,7 +97,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-group-feed-stream-async.md
@@ -119,7 +119,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-life-event-stream-async.md
@@ -141,7 +141,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-live-veo-stream-async.md
@@ -163,7 +163,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-message-shares-stream-async.md
@@ -185,7 +185,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-object-comments-stream-async.md
@@ -207,7 +207,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-object-likes-stream-async.md
@@ -229,7 +229,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-user-conversations-stream-async.md
@@ -251,7 +251,7 @@ apis:
   description: Facebook is an online social networking service that allows its users
     to connect with friends and family as well as make new connections
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  humanURL: ""
+  humanURL: https://facebook.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/facebook/facebook-get-user-photos-stream-async.md
