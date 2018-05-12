@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Box
+x-collection-name: Box User Events, Enterprise Events (stream)
 info:
   title: Box
   version: 1.2.0
