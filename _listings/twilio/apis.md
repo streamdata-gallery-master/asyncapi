@@ -36,7 +36,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-account-usage-record-stream-async.md
@@ -64,7 +64,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-applications-stream-async.md
@@ -92,7 +92,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-calls-stream-async.md
@@ -120,7 +120,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-conference-call-participants-stream-async.md
@@ -148,7 +148,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-conference-calls-stream-async.md
@@ -176,7 +176,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-message-media-stream-async.md
@@ -204,7 +204,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-queues-stream-async.md
@@ -232,7 +232,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-recordings-stream-async.md
@@ -260,7 +260,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-get-transcriptions-stream-async.md
@@ -288,7 +288,7 @@ apis:
     messages and IP voice communications into their web, mobile and traditional phone
     applications
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
+  humanURL: http://www.twilio.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/twilio/twilio-getsmslist-stream-async.md
