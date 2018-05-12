@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Gmail Send Push Notification (stream)
+x-collection-name: Gmail
 info:
   title: Gmail
   version: 1.2.0
