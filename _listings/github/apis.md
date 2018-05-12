@@ -35,7 +35,7 @@ apis:
 - name: GitHub Get Emojis (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-emojis-stream-async.md
@@ -62,7 +62,7 @@ apis:
 - name: GitHub Get Events (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-events-stream-async.md
@@ -89,7 +89,7 @@ apis:
 - name: GitHub Get Feeds (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-feeds-stream-async.md
@@ -116,7 +116,7 @@ apis:
 - name: GitHub Get Gists (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-gists-stream-async.md
@@ -143,7 +143,7 @@ apis:
 - name: GitHub Get Issues (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-issues-stream-async.md
@@ -170,7 +170,7 @@ apis:
 - name: GitHub Get Meta (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-meta-stream-async.md
@@ -197,7 +197,7 @@ apis:
 - name: GitHub Get Notifications (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-notifications-stream-async.md
@@ -224,7 +224,7 @@ apis:
 - name: GitHub Get Organizations (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-organizations-stream-async.md
@@ -251,7 +251,7 @@ apis:
 - name: GitHub Get Orgs Org (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-orgs-org-stream-async.md
@@ -278,7 +278,7 @@ apis:
 - name: GitHub Get Orgs Org Events (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-orgs-org-events-stream-async.md
@@ -305,7 +305,7 @@ apis:
 - name: GitHub Get Orgs Org Issues (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-orgs-org-issues-stream-async.md
@@ -332,7 +332,7 @@ apis:
 - name: GitHub Get Orgs Org Repos (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-orgs-org-repos-stream-async.md
@@ -359,7 +359,7 @@ apis:
 - name: GitHub Get Rate Limit (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-rate-limit-stream-async.md
@@ -386,7 +386,7 @@ apis:
 - name: GitHub Get Repositories (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-repositories-stream-async.md
@@ -413,7 +413,7 @@ apis:
 - name: GitHub Get Search Code (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-search-code-stream-async.md
@@ -440,7 +440,7 @@ apis:
 - name: GitHub Get Search Issues (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-search-issues-stream-async.md
@@ -467,7 +467,7 @@ apis:
 - name: GitHub Get Search Repositories (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-search-repositories-stream-async.md
@@ -494,7 +494,7 @@ apis:
 - name: GitHub Get Search Users (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-search-users-stream-async.md
@@ -521,7 +521,7 @@ apis:
 - name: GitHub Get User Orgs (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-user-orgs-stream-async.md
@@ -548,7 +548,7 @@ apis:
 - name: GitHub Get Users Username Events (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-users-username-events-stream-async.md
@@ -575,7 +575,7 @@ apis:
 - name: GitHub Get Users Username Orgs (stream)
   description: GitHub is a social network for programmers
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/github-logo.png
-  humanURL: ""
+  humanURL: https://github.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/github/github-get-users-username-orgs-stream-async.md
