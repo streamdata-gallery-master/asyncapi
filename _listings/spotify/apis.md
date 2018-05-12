@@ -29,7 +29,7 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: ""
+  humanURL: http://www.spotify.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/spotify/spotify-get-albums-stream-async.md
@@ -47,7 +47,7 @@ apis:
   description: Spotify has created a lightweight software application that allows
     instant listening to specific tracks or albums with virtually no buffering delay
   image: http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg
-  humanURL: ""
+  humanURL: http://www.spotify.com
   properties:
   - type: x-asyncapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/asyncapi/master/_listings/spotify/spotify-search-stream-async.md
