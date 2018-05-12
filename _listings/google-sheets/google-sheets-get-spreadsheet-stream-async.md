@@ -1,6 +1,6 @@
 ---
 version: 1.2.0
-x-collection-name: Google Sheets
+x-collection-name: Google Sheets Get Spreadsheet (stream)
 info:
   title: Google Sheets
   version: 1.2.0
